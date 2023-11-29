@@ -1,0 +1,4 @@
+1001  coca  m  100
+1002  sting  f  99
+1003  pesi  f  88
+1004  soda  f  77
